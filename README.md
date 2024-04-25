@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+EcommerceReactWebsite with Add to cart facility
+
+![shopping website](https://github.com/Anand3125/EcommerceReactWebsite/assets/124582976/b6079d81-5d74-44c8-a2cf-7a87baa4c3f5)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -62,7 +64,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Deployment
-
+Date: 26 / April / 2024
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
