@@ -7,7 +7,7 @@ const About = () => {
   <div className="container px-5 py-24 mx-auto flex flex-col">
     <div className="lg:w-4/6 mx-auto">
       <div className="rounded-lg h-64 overflow-hidden">
-      <img src="./src/Assets/images/1banner.png" alt="About Us" height="400px" width="400px" />
+      <img src="https://media.istockphoto.com/id/1308052781/photo/hand-of-businessman-holding-mobile-smartphone-with-icon-customer-support-concept-copy-space.jpg?s=1024x1024&w=is&k=20&c=zS1HXFbi-nR8qj_5ql053j_BL4XIFAjPUJ4M34rflWY=" alt="About Us" height="400px" width="400px" />
       </div>
 
 
