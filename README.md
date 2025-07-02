@@ -74,5 +74,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ![ecommerce](https://github.com/user-attachments/assets/8478c710-307c-4808-a719-066a8eba4422)
 
+![product ecommerce](https://github.com/user-attachments/assets/76618a5c-acfb-4be8-81c3-970344201787)
+
+![contact ecommerce](https://github.com/user-attachments/assets/24756c2a-aeb4-454f-9a17-9917276bc12d)
 
 
